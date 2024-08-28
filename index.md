@@ -6,7 +6,7 @@ layout: default
 
 `Durante minha trajetória acadêmica e profissional, aprendi que a comunicação lógica e empática é o canivete suíço das relações profissionais. Além disso, a habilidade de aprender rapidamente me garante capacidade para prover desenvolvimento e resultados na esfera profissional, quando inserido em um ambiente propício ao enriquecimento profissional e pessoal`.
 
-[Linkedin]((https://www.linkedin.com/in/caio-sousa-perez-32b567308/)).
+[Linkedin](https://www.linkedin.com/in/caio-sousa-perez-32b567308/).
 
 # Certificacoes
 
@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching]([https://github.com/ChuCaio/Csec.github.io/blob/main/_images/aadadad.jpg])
+![itachi]([https://github.com/ChuCaio/Csec.github.io/blob/main/_images/aadadad.jpg])
 
 
 ### Definition lists can be used with HTML syntax.
