@@ -2,19 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+ `RedBull bragantino eh o pior time da serie A`.
 
-[Link to another page](./another-page.html).
+`Durante minha trajetória acadêmica e profissional, aprendi que a comunicação lógica e empática é o canivete suíço das relações profissionais. Além disso, a habilidade de aprender rapidamente me garante capacidade para prover desenvolvimento e resultados na esfera profissional, quando inserido em um ambiente propício ao enriquecimento profissional e pessoal`.
 
-There should be whitespace between paragraphs.
+[Linkedin]((https://www.linkedin.com/in/caio-sousa-perez-32b567308/)).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Certificacoes
 
-# Igor entre igors
+Compitia Security+.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Google Cybersecurity by Cousera.
 
-## Header 2
+# Projetos Simples 
 
 > This is a blockquote following a header.
 >
@@ -98,15 +98,15 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching]([https://guides.github.com/activities/hello-world/branching.png](https://github.com/ChuCaio/Csec.github.io/blob/main/_images/aadadad.jpg))
 
 
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
+<dt>Nome</dt>
+<dd>Itachi</dd>
+<dt>Nascimento</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
 <dd>Japan</dd>
