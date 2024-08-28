@@ -2,7 +2,7 @@
 layout: default
 ---
 
- `RedBull bragantino eh o pior time da serie A`.
+ `RedBull bragantino eh o pior time da serie fA`.
 
 `Durante minha trajetória acadêmica e profissional, aprendi que a comunicação lógica e empática é o canivete suíço das relações profissionais. Além disso, a habilidade de aprender rapidamente me garante capacidade para prover desenvolvimento e resultados na esfera profissional, quando inserido em um ambiente propício ao enriquecimento profissional e pessoal`.
 
@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![itachi]([https://github.com/ChuCaio/Csec.github.io/blob/main/_images/aadadad.jpg])
+![itachi]([https://raw.githubusercontent.com/ChuCaio/Csec.github.io/main/_images/aadadad.jpg])
 
 
 ### Definition lists can be used with HTML syntax.
